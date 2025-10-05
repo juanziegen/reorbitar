@@ -4,7 +4,7 @@
 ReOrbit Ar is a project developed in the NASA Space Apps Challenge.  
 Our mission is to transform the growing problem of orbital debris into an opportunity for sustainable space infrastructure.  
 
-Currently, thousands of inactive satellites and fragments orbit Earth, generating dangerous traffic for active missions. Their only planned destiny is controlled destruction in Earth’s atmosphere. **ReOrbit Ar proposes an alternative that does not yet exist: recycling and reusing orbital debris directly in space.
+Currently, thousands of inactive satellites and fragments orbit Earth, generating dangerous traffic for active missions. Their only planned destiny is controlled destruction in Earth’s atmosphere. ReOrbit Ar proposes an alternative that does not yet exist: recycling and reusing orbital debris directly in space.
 
 
 🛰️ How It Works
@@ -40,7 +40,7 @@ A key component of ReOrbit Ar is the creation of a transparent and secure orbita
 To encourage participation from satellite operators, ReOrbit Ar introduces a credit-based incentive model:
 
 - Contribution Credits  
-  When a company delivers its inactive satellite to the recycling system, a percentage of the recovered materials is converted into **credits**.
+  When a company delivers its inactive satellite to the recycling system, a percentage of the recovered materials is converted into credits.
 
 - Material-Based Valuation  
   Each material type (metals, polymers, electronics) has a specific credit value, reflecting its scarcity and utility in orbit.
