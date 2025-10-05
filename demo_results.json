@@ -1,0 +1,138 @@
+{
+  "optimization_status": "converged",
+  "execution_time": 3.225924491882324,
+  "success": true,
+  "error_message": null,
+  "best_route": {
+    "satellite_sequence": [
+      11542,
+      16452,
+      39761,
+      39762,
+      39763,
+      13378,
+      16764,
+      19905,
+      11050,
+      42584
+    ],
+    "departure_times": [
+      2127.521293426817,
+      20552.38232208816,
+      27612.435206431503,
+      36169.58701164715,
+      43695.18345427801,
+      51900.68073361786,
+      57778.64634637153,
+      61713.0533360506,
+      74822.53204014806,
+      89209.87996680156
+    ],
+    "total_deltav": 0.06029597918224283,
+    "hop_count": 9,
+    "mission_duration": 87082.35867337474,
+    "is_valid": true,
+    "constraint_violations": []
+  },
+  "optimization_stats": {
+    "generations_completed": 9,
+    "best_fitness": 8.993199075292628,
+    "average_fitness": 8.992855708798817,
+    "population_diversity": 0.0030644683240041997,
+    "constraint_satisfaction_rate": 1.0,
+    "convergence_generation": 9,
+    "stagnant_generations": 0
+  },
+  "convergence_history": [
+    {
+      "generation": 0,
+      "best_fitness": 8.992728789367208,
+      "average_fitness": 4.2303036935762295,
+      "worst_fitness": 0.7181339616045626,
+      "diversity_metric": 0.8226475327358316,
+      "valid_solutions_count": 20,
+      "constraint_satisfaction_rate": 1.0
+    },
+    {
+      "generation": 1,
+      "best_fitness": 8.992728789367208,
+      "average_fitness": 5.632560716749897,
+      "worst_fitness": 2.7320226281451596,
+      "diversity_metric": 0.7524335115382791,
+      "valid_solutions_count": 20,
+      "constraint_satisfaction_rate": 1.0
+    },
+    {
+      "generation": 2,
+      "best_fitness": 8.992728789367208,
+      "average_fitness": 7.3398901032443735,
+      "worst_fitness": 5.4542165602298915,
+      "diversity_metric": 0.610949057225666,
+      "valid_solutions_count": 20,
+      "constraint_satisfaction_rate": 1.0
+    },
+    {
+      "generation": 3,
+      "best_fitness": 8.992728789367208,
+      "average_fitness": 7.695243141394236,
+      "worst_fitness": 5.117604054758883,
+      "diversity_metric": 0.43902055007185414,
+      "valid_solutions_count": 20,
+      "constraint_satisfaction_rate": 1.0
+    },
+    {
+      "generation": 4,
+      "best_fitness": 8.99281388568402,
+      "average_fitness": 8.992636171636333,
+      "worst_fitness": 8.992352131271971,
+      "diversity_metric": 0.003962867829218058,
+      "valid_solutions_count": 20,
+      "constraint_satisfaction_rate": 1.0
+    },
+    {
+      "generation": 5,
+      "best_fitness": 8.99291142859382,
+      "average_fitness": 8.992139911886138,
+      "worst_fitness": 8.986569532971442,
+      "diversity_metric": 0.003358606176772046,
+      "valid_solutions_count": 20,
+      "constraint_satisfaction_rate": 1.0
+    },
+    {
+      "generation": 6,
+      "best_fitness": 8.993057589570821,
+      "average_fitness": 8.99267765765224,
+      "worst_fitness": 8.991185140169415,
+      "diversity_metric": 0.00437072882143038,
+      "valid_solutions_count": 20,
+      "constraint_satisfaction_rate": 1.0
+    },
+    {
+      "generation": 7,
+      "best_fitness": 8.993057589570821,
+      "average_fitness": 8.992880686677065,
+      "worst_fitness": 8.992592979272256,
+      "diversity_metric": 0.00467419430304453,
+      "valid_solutions_count": 20,
+      "constraint_satisfaction_rate": 1.0
+    },
+    {
+      "generation": 8,
+      "best_fitness": 8.9930619360198,
+      "average_fitness": 8.992959921062493,
+      "worst_fitness": 8.992739723546311,
+      "diversity_metric": 0.0036908485715335163,
+      "valid_solutions_count": 20,
+      "constraint_satisfaction_rate": 1.0
+    },
+    {
+      "generation": 9,
+      "best_fitness": 8.993199075292628,
+      "average_fitness": 8.992855708798817,
+      "worst_fitness": 8.989480767100375,
+      "diversity_metric": 0.0030644683240041997,
+      "valid_solutions_count": 20,
+      "constraint_satisfaction_rate": 1.0
+    }
+  ]
+}
